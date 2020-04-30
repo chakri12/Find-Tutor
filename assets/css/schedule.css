@@ -1,0 +1,21 @@
+/*body	{
+	background-image:url('/images/indian_flag_wallpaper-cricket_world_cup.jpg');
+}*/
+
+table.table	{
+	background-color:#f2f2f2;
+	text-align:center;
+}
+
+table.table >thead >tr >th {
+	text-align:center;
+	color:#f2f2f2;
+}
+table.table >thead >tr	{
+	background-color:green;
+}
+
+blockquote.blockquote-reverse	{
+	color:#f2f200;
+	font-weight:bold;
+}
